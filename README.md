@@ -22,11 +22,12 @@ Failure Management is a Vue.js Single Page Application (SPA) designed to help st
 1. Clone the repository:
    ```sh
    git clone https://github.com/ck347/failure-management
-   
-2.Navigate to the project directory:
+   ```
+2. Navigate to the project directory:
    ```sh
 cd failure-management
-
-3.Install the dependencies:
+   ```
+3. Install the dependencies:
    ```sh
 npm install
+   ```
